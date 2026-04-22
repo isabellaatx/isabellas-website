@@ -95,7 +95,7 @@ body::before {
   transform: scaleX(1);
 }
 
-/* ─── Hero / Home ────────────────────────────────────── */
+/* ─── Home ────────────────────────────────────── */
 .hero-section {
   display: flex;
   align-items: center;
